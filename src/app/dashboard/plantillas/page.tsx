@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
 
 interface Plantilla {
   id: number;
@@ -22,8 +21,7 @@ const plantillasIniciales: Plantilla[] = [
 ];
 
 export default function PlantillasPage() {
-  const router = useRouter();
-  const [plantillas, setPlantillas] = useState<Plantilla[]>(plantillasIniciales);
+  const [plantillas] = useState<Plantilla[]>(plantillasIniciales);
 
   function handleEditar(id: number) {
     alert(`Editar plantilla con ID ${id} - funcionalidad pendiente.`);
