@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/dashboard/citas/nueva/page": "app/dashboard/citas/nueva/page.js",
+  "/dashboard/clientes/page": "app/dashboard/clientes/page.js",
+  "/dashboard/citas/page": "app/dashboard/citas/page.js",
+  "/dashboard/clientes/nuevo/page": "app/dashboard/clientes/nuevo/page.js",
+  "/dashboard/configuracion/page": "app/dashboard/configuracion/page.js",
+  "/dashboard/cuentas/page": "app/dashboard/cuentas/page.js",
+  "/dashboard/facturas/nueva/page": "app/dashboard/facturas/nueva/page.js",
+  "/dashboard/facturas/page": "app/dashboard/facturas/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/plantillas/page": "app/dashboard/plantillas/page.js",
+  "/dashboard/reportes/page": "app/dashboard/reportes/page.js",
+  "/dashboard/servicios/nuevo/page": "app/dashboard/servicios/nuevo/page.js",
+  "/dashboard/servicios/page": "app/dashboard/servicios/page.js"
+}
